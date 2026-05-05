@@ -5,6 +5,9 @@
 This project builds a serverless ETL (Extract, Transform, Load) pipeline using the Last.fm API and Amazon Web Services.
 It extracts music data, processes it, stores it in a data lake, and enables querying for analytics.
 
+<img width="1693" height="825" alt="diagram" src="https://github.com/user-attachments/assets/43005830-b261-4e80-9897-1e6e781dc868" />
+
+
 ## 🏗️ Architecture
 
 The pipeline follows this flow:
